@@ -91,10 +91,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gxDpib6XQjcpE_E3vsdt" name="智能采集任务修改参数">
-    <mxGraphModel dx="1406" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-52" edge="1" parent="1" source="EF3vTosYNiAnYO8NzT1c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="EF3vTosYNiAnYO8NzT1c-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="用户修改参数" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-29" edge="1" parent="1" source="EF3vTosYNiAnYO8NzT1c-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="EF3vTosYNiAnYO8NzT1c-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-30" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="代理请求" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#143642;" value="资源调配平台" vertex="1">
+          <mxGeometry height="30" width="80" x="240" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-34" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="启动子任务" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#143642;" value="端节点业务应用" vertex="1">
+          <mxGeometry height="30" width="90" x="230" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="EF3vTosYNiAnYO8NzT1c-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="任务是否在运行中" vertex="1">
+          <mxGeometry height="80" width="80" x="384" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
