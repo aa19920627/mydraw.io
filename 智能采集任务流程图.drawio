@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="XDiyRW8bbHr8avN3mtSE">
+    <mxGraphModel dx="803" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XLTXqu-U9jj1vjUWQYGm-4" edge="1" parent="1" source="XLTXqu-U9jj1vjUWQYGm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="XLTXqu-U9jj1vjUWQYGm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLTXqu-U9jj1vjUWQYGm-5" connectable="0" parent="XLTXqu-U9jj1vjUWQYGm-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;B_SeaScanControlTask&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1429" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLTXqu-U9jj1vjUWQYGm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="启动任务" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XLTXqu-U9jj1vjUWQYGm-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="代理请求" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
