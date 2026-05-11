@@ -250,17 +250,22 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v0x9zH32dSuDEOo9FuSU-29" edge="1" parent="1" source="v0x9zH32dSuDEOo9FuSU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="v0x9zH32dSuDEOo9FuSU-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0x9zH32dSuDEOo9FuSU-30" connectable="0" parent="v0x9zH32dSuDEOo9FuSU-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.2296" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v0x9zH32dSuDEOo9FuSU-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="是否全部停止成功" vertex="1">
           <mxGeometry height="80" width="80" x="384" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="v0x9zH32dSuDEOo9FuSU-23" edge="1" parent="1" source="v0x9zH32dSuDEOo9FuSU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="v0x9zH32dSuDEOo9FuSU-25" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v0x9zH32dSuDEOo9FuSU-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="结束" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="v0x9zH32dSuDEOo9FuSU-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="返回启动成功" vertex="1">
+        <mxCell id="v0x9zH32dSuDEOo9FuSU-28" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="364" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="v0x9zH32dSuDEOo9FuSU-25" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="建立数据通道" vertex="1">
-          <mxGeometry height="60" width="120" x="364" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
