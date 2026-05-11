@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="是否全部启动成功" vertex="1">
-          <mxGeometry height="80" width="80" x="374" y="680" as="geometry" />
+          <mxGeometry height="80" width="80" x="374" y="730" as="geometry" />
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-19" edge="1" parent="1" source="pyKpD2SOytc3h0g58StR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="XLTXqu-U9jj1vjUWQYGm-2">
           <mxGeometry relative="1" as="geometry" />
@@ -76,16 +76,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-16" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="停止已成功的子任务" vertex="1">
-          <mxGeometry height="60" width="120" x="594" y="690" as="geometry" />
+          <mxGeometry height="60" width="120" x="594" y="740" as="geometry" />
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-30" edge="1" parent="1" source="pyKpD2SOytc3h0g58StR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="pyKpD2SOytc3h0g58StR-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-26" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="返回启动成功" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="850" as="geometry" />
+          <mxGeometry height="60" width="120" x="354" y="900" as="geometry" />
         </mxCell>
         <mxCell id="pyKpD2SOytc3h0g58StR-29" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="建立数据通道" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="990" as="geometry" />
+          <mxGeometry height="60" width="120" x="354" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -211,7 +211,7 @@
             <mxPoint x="400" y="80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k1YnxgRgdIiO9kJ_SjK-16" connectable="0" parent="_k1YnxgRgdIiO9kJ_SjK-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;B_TaskModification&lt;/span&gt;" vertex="1">
+        <mxCell id="_k1YnxgRgdIiO9kJ_SjK-16" connectable="0" parent="_k1YnxgRgdIiO9kJ_SjK-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;宋体;mso-bidi-font-family:宋体;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;B_StopMeas&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0449" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
