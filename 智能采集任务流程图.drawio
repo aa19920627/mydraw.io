@@ -264,7 +264,7 @@
         <mxCell id="v0x9zH32dSuDEOo9FuSU-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="结束" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="v0x9zH32dSuDEOo9FuSU-28" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="" vertex="1">
+        <mxCell id="v0x9zH32dSuDEOo9FuSU-28" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" value="持续尝试停止任务" vertex="1">
           <mxGeometry height="60" width="120" x="364" y="780" as="geometry" />
         </mxCell>
       </root>
